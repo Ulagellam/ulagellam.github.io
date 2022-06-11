@@ -90,7 +90,7 @@ testimonials:
   - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
     name: "Sivasweatha Umamaheswaran"
     designation: "CFO, Ulagellam"
-    image: "images/user-img/u.jpg"
+    image: "images/author/sivasweatha.jpg"
 
   - quote: "I like to help Ulagellam"
     name: "Sivayogeith Umamaheswaran"
